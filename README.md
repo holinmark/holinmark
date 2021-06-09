@@ -8,4 +8,5 @@
 holinmark/holinmark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-holinmark70@gmail.com
+Submit bugs to holinmark70@gmail.com
+I may or may not respond due to the fact that I infrequently check my emails.
